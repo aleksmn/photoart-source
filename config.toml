@@ -1,0 +1,37 @@
+baseURL = "http://127.0.0.1:5500/public/"
+languageCode = "en-us"
+
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Hugo Story"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/aleksmn/"
+  twitter = "https://twitter.com/alexandrovphoto/"
+  email = "al-mn@yandex.ru"
+  instagram = "https://www.instagram.com/alexandrovphotography/"
+  linkedin = "https://linkedin.com"
+
+[Params.footer]
+  copy = "Mikhael Aleksandrov, 2021"
