@@ -1,10 +1,10 @@
 ####################### Banner #########################
-style: "style3 fullscreen color0 orient-right content-align-left image-position-right onload-image-fade-in onload-content-fade-right"
+style: "style1 fullscreen color0 orient-left content-align-left image-position-center onload-image-fade-in onload-content-fade-right"
 title : "Photography Life"
 subtitle: |
   Hello, my name is Mikhail Aleksandrov
 content : |
-  This is a <i>some text</i> and example link <a href="#reference-banner">details</a>.
+  This is a <i>some text</i> and example link <a href="#reference-banner">details</a>. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier.
 button:
   label : "Get Started"
   link : "#first"
