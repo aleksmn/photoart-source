@@ -4,7 +4,7 @@ title : "Photography Life"
 subtitle: |
   Hello, my name is Mikhail Aleksandrov
 content : |
-  This is a <i>some text</i> and example link <a href="#reference-banner">details</a>. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier.
+  To see the life you need to scroll down.
 button:
   label : "Get Started"
   link : "#first"
