@@ -22,35 +22,28 @@ pictures:
     thumb: "images/portraits/thumbs/AM-0621-1635.jpg"
     button: "Details"
 
-  - title: "The Lighthouse"
-    content: "For the very reason why she had chosen the lighthouse had become almost instantly a reason for going somewhere else."
-    image: "images/portraits/fulls/AM-0621-1645.jpg"
-    thumb: "images/portraits/thumbs/AM-0621-1645.jpg"
-    button: "Details"
-
-  - title: "Only the mind looks back"
-    content: "Can we take it to the seaside?"
-    image: "images/portraits/fulls/AM-0621-1651.jpg"
-    thumb: "images/portraits/thumbs/AM-0621-1651.jpg"
-    button: "Details"
-
   - title: "That tomorrow should come"
     content: "I realize that it's difficult but we must keep to ourselves questions about the future."
     image: "images/portraits/fulls/AM-0718-1750.jpg"
     thumb: "images/portraits/thumbs/AM-0718-1750.jpg"
     button: "Details"
 
-  - title: "The Falls"
-    content: "Have you been down to the falls yet?"
-    image: "images/portraits/fulls/AM-0730-1933.jpg"
-    thumb: "images/portraits/thumbs/AM-0730-1933.jpg"
+  - title: "The Lighthouse"
+    content: "For the very reason why she had chosen the lighthouse had become almost instantly a reason for going somewhere else."
+    image: "images/portraits/fulls/AM-0621-1645.jpg"
+    thumb: "images/portraits/thumbs/AM-0621-1645.jpg"
     button: "Details"
-
 
   - title: "Bright dress"
     content: "Put on the brightest dress you have."
     image: "images/portraits/fulls/AM-0621-1633.jpg"
     thumb: "images/portraits/thumbs/AM-0621-1633.jpg"
+    button: "Details"
+
+  - title: "The Falls"
+    content: "Have you been down to the falls yet?"
+    image: "images/portraits/fulls/AM-0730-1933.jpg"
+    thumb: "images/portraits/thumbs/AM-0730-1933.jpg"
     button: "Details"
 
   - title: "Soft glow"
@@ -75,4 +68,10 @@ pictures:
     content: "The fiddle squeaks and the guitar bongs."
     image: "images/portraits/fulls/AM-0720-1826.jpg"
     thumb: "images/portraits/thumbs/AM-0720-1826.jpg"
+    button: "Details"
+
+  - title: "Only the mind looks back"
+    content: "Can we take it to the seaside?"
+    image: "images/portraits/fulls/AM-0621-1651.jpg"
+    thumb: "images/portraits/thumbs/AM-0621-1651.jpg"
     button: "Details"
