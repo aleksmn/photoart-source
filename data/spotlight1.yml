@@ -5,6 +5,6 @@ title : "Beginning"
 content: |
   Lets start this photography journey...
 button: 
-  label: "Learn More"
+  label: "Go to gallery"
   link: "#gallery1"
 image: "images/spotlight01.jpg"
