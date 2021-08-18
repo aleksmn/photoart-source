@@ -33,4 +33,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   instagram = "https://www.instagram.com/alexandrovphotography/"
 
 [Params.footer]
-  copy = "Mikhael Aleksandrov, 2021"
+  copy = "Mikhail Aleksandrov, 2021"
