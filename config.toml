@@ -1,4 +1,6 @@
-baseURL = "https://aleksmn.github.io/photoart/"
+baseURL = "https://photoart.vercel.app/"
+
+## baseURL = "https://aleksmn.github.io/photoart/"
 languageCode = "en-us"
 
 ## -----------------------------------------------
