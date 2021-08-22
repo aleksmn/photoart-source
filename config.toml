@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params.social]
   github = "https://github.com/aleksmn/"
   twitter = "https://twitter.com/alexandrovphoto/"
-  email = "al-mn@yandex.ru"
+  email = "aleksmiphoto@gmail.com"
   instagram = "https://www.instagram.com/alexandrovphotography/"
 
 [Params.footer]
