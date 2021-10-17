@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	
+	{{ partial "spotlight" site.Data.spotlight1 }}
+	{{ partial "gallery" site.Data.gallery1 }}
+
+	{{ partial "spotlight" site.Data.spotlight2 }}
+	{{ partial "gallery" site.Data.gallery2 }}
+<!-- 
+	{{ partial "spotlight" site.Data.spotlight3 }}
+	{{ partial "gallery" site.Data.gallery3 }} -->
+
+	{{ partial "template/footer" . }}
+
+{{ end }}
